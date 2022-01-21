@@ -1,3 +1,3 @@
-# Atcoder_DP_solutions
-Contains solutions for Atcoder DP Educational Contest problems. Code is in C++.
-https://atcoder.jp/contests/dp/tasks
+# Atcoder DP contest
+Contains solutions for Atcoder DP Educational Contest problems. Code is in C++. <br/>
+🔗 https://atcoder.jp/contests/dp/tasks
